@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles the Second, by the grace of God, King of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all to whom these presents shall come greeting ... the private commodity of our subjects, have diligently looked into and observed the great plenty of fish ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32198</idno>
+            <idno type="STC">Wing C2934</idno>
+            <idno type="STC">ESTC R12981</idno>
+            <idno type="EEBO-CITATION">12334516</idno>
+            <idno type="OCLC">ocm 12334516</idno>
+            <idno type="VID">59737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 934:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles the Second, by the grace of God, King of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all to whom these presents shall come greeting ... the private commodity of our subjects, have diligently looked into and observed the great plenty of fish ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Title taken from first line of text.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Fish trade --  England --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:59737:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES</hi> the Second, by the Grace of God, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> Defender of the Faith, <hi>&amp;c.</hi>
+               </signed> 
+               <salute>To all to whom theſe preſents ſhall come greeting,</salute>
+            </opener>
+            <p>Know ye that We out of Our Princely Care, tending as well to the Publike Weal of Our Kingdoms, as the private Commodity of Our Subjects, have diligently looked into and obſerved the great plenty of Fiſh, wherewith the Seas, Estuaries or Inlets, Creeks, Arms of the Sea, publike Rivers, Nooks and Lakes of Our Dominions, and the Iſles thereunto belonging, by the bleſſing of Almighty God doth abound, and how great profits unto Our Subjects, and increaſe of ſtrength unto Our Sea Forces, as well in times of War as Peace, may from thence ariſe; what an eaſe it will be to Our Kingdoms, to have Lazie and Idle people ſet on Work, and Trained up in the Trade of Fiſhing, whereby they may be able to relieve themſelves, and how much Merchandize and Traffick may by their induſtry be improved; And ha<g ref="char:EOLhyphen"/>ving alſo with the Advice of the Council of Our Kingdom, weighed as well the publike as private Commodity, and all other conſequences thereof, if Our Subjects ſhall diligently, ſeriouſly, and effectually employ their care and pains to the uſe and improvement of Fiſhing; And for other urgent Reaſons and Cauſes Vs thereunto moving, Have nominated and conſtituted, and by theſe preſents, We do make, conſtitute, ordain and ap<g ref="char:EOLhyphen"/>point, Our deareſt and moſt entirely beloved Brother, <hi>James</hi> Duke of <hi>York,</hi> and our right Truſty and right welbeloved Couſins and Counſellors, <hi>Edward</hi> Earl of <hi>Clarendon</hi> Our high Chancellor of <hi>England, Thomas</hi> Earl of <hi>Southampton</hi> Our high Treaſurer of <hi>England,</hi> and likewiſe Our right truſty and right welbeloved Councellor <hi>John</hi> Lord <hi>Roberts</hi> Lord Privy Seal, and alſo Our right truſty and right welbeloved Couſin <hi>Charles</hi> Duke of <hi>Richmond</hi> and <hi>Lenox,</hi> and Our right truſty and right welbeloved Couſins and Councellors <hi>George</hi> Duke of <hi>Albemarle</hi> Lord General of all Our Forces, <hi>Iames</hi> Duke of <hi>Ormond</hi> Lord Steward of Our Houſhold, <hi>Henry</hi> Marquis <hi>Dorcheſter, Mountague</hi> Earl of <hi>Lyndſey</hi> Lord great Chamberlain of <hi>England,</hi> and alſo Our right truſty and right welbeloved Couſin and Counſellor <hi>Edward</hi> Earl of <hi>Mancheſter</hi> Lord Chamberlain of Our Houſhold, and alſo Our right truſty and welbe<g ref="char:EOLhyphen"/>loved Couſin <hi>Awbrey</hi> Earl of <hi>Oxford,</hi> and Our right truſty and right welbeloved Couſin and Counſellor <hi>Algernon</hi> Earl of <hi>Northumberland,</hi> and alſo Our truſty and right wel<g ref="char:EOLhyphen"/>beloved Couſins, <hi>William</hi> Earl of <hi>Bedford, Philip</hi> Earl of <hi>Pembroke</hi> and <hi>Montgomery, Theophilus</hi> Earl of <hi>Lincoln,</hi> and alſo Our right truſty and right welbeloved Couſin and Councellor <hi>Robert</hi> Earl of <hi>Leiceſter,</hi> and alſo Our truſty and right welbeloved Couſins <hi>Iames</hi> Earl of <hi>Suffolke, Iames</hi> Earl of <hi>Marleborough, Ierome</hi> Earl of <hi>Portland,</hi> and alſo Our right truſty and right welbeloved Couſins and Councellors <hi>George</hi> Earl of <hi>Norwich, Edward</hi> Earle of <hi>Sandwich, Arthur</hi> Earl of <hi>Angleſey,</hi> and alſo Our truſty and right welbeloved <hi>George</hi> Lord <hi>Berkley</hi> of <hi>Berkley, Francis</hi> Lord <hi>Willoughby</hi> of <hi>Parham, William</hi> Lord <hi>Craven, Iohn</hi> Lord <hi>Berkley</hi> of <hi>Straiton,</hi> and alſo Our right truſty and right welbeloved Councellor <hi>Denzill</hi> Lord <hi>Hollis, Frederick</hi> Lord <hi>Cornewallis</hi> Treaſurer of Our Houſhold, and alſo Our truſty and right welbeloved <hi>Horace</hi> Lord <hi>Towneſend,</hi> and alſo Our right truſty and welbeloved Councellors <hi>Anthony</hi> Lord <hi>Aſhley,</hi> Sir <hi>Charles Berkley</hi> Knight, Comptroller of Our Houſhold, Sir <hi>George Carteret</hi> Knight, Vice-Chamberlain of Our Houſhold, Sir <hi>Edward Nicholas</hi> Knight, one of Our principal Se<g ref="char:EOLhyphen"/>cretaries of State, Sir <hi>VVilliam Morice</hi> Knight, another of Our principal Secretaries of State, and likewiſe Our right truſty and welbeloved Sir <hi>Ieoffry Palmer</hi> Knight and Baronet Our Atturney General, and Sir <hi>Heneage Finch</hi> Knight and Baronet Our Sollicitor General, to be the Councel of the Royal-Fiſhing of <hi>Great Brittain</hi> and <hi>Ireland,</hi> of which We Our Heirs and Succeſſors will vouchſafe ever to be and be called <hi>Protectors;</hi> And we Grant Licence and Liberty that the Council and their Succeſſors for the time being, as oft as to them or any Four of them, it ſhall ſeem expedient, may and ſhall from time to time in ſuch places, meet and make Aſſemblies, Elect, Conſtitute, and Depute Officers and Miniſters, such as ſhall be neceſſary for their ſervice, and conſuit and debate of the buſineſs and affairs of the ſaid Fiſhing, and make, appoint, ordain and publiſh Laws, Ordinances and Sta<g ref="char:EOLhyphen"/>tutes whatſoever concerning their Miniſters, Servants, Fiſhermen, Mariners, Maſters, Factors, and others imployed about the buſineſs of the Fiſhing, and the ſame as oft as it ſhall ſeem neceſſary to them, Change, Revoke, Correct and Subſtitute other Ordinances in their ſtead, and enjoyn pecuniary mulctes or pains of impriſonment to be inflicted ac<g ref="char:EOLhyphen"/>cording to the quality of the offence on ſuch as contemn or violate the ſame, and to new evils ariſing (wanting amendment) to apply a new remedy fit and agreeable to reaſon, when and as often as it ſhall ſeem expedient to them, yet ſo as thoſe Laws, Ordinances and Statutes be by Vs and Our Heirs ratified and approved before they take force; And alſo they ſhall and may in like like manner put the ſaid Statutes in due execution, and puniſh (according to the ſaid Statutes, Laws, and Ordinances, and the tenors of the ſame) ſuch as contemn and do contrary to them, which Laws, Ordinances and Statutes, We will to be obſerved in all things, and duely put in execution, yet ſo as the ſaid Statutes, Laws, Ordinances or Decrees be not derogatory to the Statutes, Laws, Liberties, or Arts of Parliament of Our Kingdoms.</p>
+            <p>And We alſo Will, and by theſe preſents for Vs, Our Heirs and Succeſſors, do grant to the Councel aforeſaid and their Succeſſors, that the Fiſhermen, Mariners, Maſters and Servants being in their Fiſhing buſineſs, and to every of them which now are or hereafter ſhall be attending or imployed in the taking or preſerving of Fiſh, be from time to time hereafter free from all Pleas or Plaints in any the Courts or Seats of Iuſtice, of Vs our Heirs or Succeſſors whereſoever, for any thing concerning the Fiſhing buſineſs while they are attending the taking or preſervation of Fiſh, ſo as none of them ſhall or may anſwer before any Iuſtices or Stewards, Bailiffs, or Iudges of the Courts and Seats of Iuſtice, of Vs or Our Heirs or Succeſſors, for any Treſpaſs, or Contracts touching the Fiſhing buſineſs, but before the Councel aforeſaid, nor ſhall give over Fiſhing or their Fiſhing works upon the ſummons of any of the Miniſters of Vs, Our Heirs or Succeſſors, but only upon the ſummons of ſome Officers or Miniſters of the ſaid Councel, or of the Iudges to be Delegated by the ſaid Councel; and for the better Government, and to avoid expences, and other charge ariſing about any the differences that may ariſe among the Fiſhermen, Mariners, Maſters and Servants belonging to the Fiſhery, for the ſp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dyer Adminiſtration of Iuſtice, becauſe it may often happen that controverſies may ariſe at Sea between the Fiſhing Maſters, Factors, Mariners and their Servants, to rem<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> which without delay, the Office of Iudge is neceſſarily requiſite, We for Vs, Our Heirs and Succeſſors, do Conſtitute and Or<g ref="char:EOLhyphen"/>dain, that in every Province of Our ſaid Kingdom <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Cities in this behalf convenient (to be deſigned or appointed by the Councel) there be Delegated Iudges under the ſaid Councel; And We alſo Will that the ſame Iudges <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſide and keep Courts in this Burroughs and Cities moſt convenient for buſineſs of Fiſhing, to whom we grant full power to make, eſtablish, and publiſh Laws, Ordinances and Statutes, temporary, and duly to put them in execution, ſo as the ſame Statutes and Laws do not repugne nor contradict the Laws, Acts of Parliament, or Statutes of Our Kingdoms, or the Laws or Statutes to be conſtituted or publiſhed by the Councel aforeſaid.</p>
+            <p>We Will alſo, and by theſe preſents for Vs, Our Heirs and Succeſſors do grant unto the Councel and their Succeſſors (as well preſent as to come) that none of their Fiſher<g ref="char:EOLhyphen"/>men, Miniſters nor Servants, neither their Boats, Sloops, Barkes, or Ships, little or great, or of whatſoever Bulk or Burthen they be, nor their Inſtruments or furniture, de<g ref="char:EOLhyphen"/>ſigned or prepared for taking of Fiſh or Carriage of the ſame, whether they be in Sea, or in Port, or elſewhere, be Arreſted or Impreſſed for the Service or Imployment of Vs Our Heirs or Succeſſors, or compelled to go in Our Service or Affairs, without the conſent of their Owners: And We Will that none of the Fiſhermen, or any imployed in the tak<g ref="char:EOLhyphen"/>ing or preſerving of Fiſh, to be put in Aſsizes, Iuries, Attaints, Recognizances, or any Inquiſition, although they concern Vs, Our Heirs or Succeſſors, or any others; nor that any of them be againſt his will made Collector of Tenths, Fifteenths, Taxes, Tallages, or any other Charges or Impoſitions whatſoever, any may granted to Vs, Our Heirs or Succeſſors, nor to be compelled to be Contable or Tything-man againſt his will.</p>
+            <p>And for the better encouragement for the enabling of all men of Ingenuity to Build Buſſes, or Fiſhing Veſſels to carry on this Fiſhing Trade, it is requiſite that there ſhould be erected Wharfs, Docks, Storehouſes and Granaries about the River of <hi>Thames,</hi> and all the Ports of Our Kingdoms, where the conveniency will be moſt advantagious for the Work, for the accommodations of all thoſe that ſhall ſet out the ſaid Veſſels to the Fiſhing Ground, to receive their Proviſions of Salt, Clapboard, Hemp, and Veſſels, their Rigging and Proviſions, and the Nets (which the poor ſet on Work, ſhall make) there to be Tanned and fitted up accordingly, which to effect will require many thouſand pounds, and cannot be procured but by way of Lottery, and by Letters Patents for a Collection in all Pariſhes within Our Dominions: We do by theſe preſents, Give, Grant and Licence unto the Councel aforeſaid, for he ſetting up of a Lottery within Our Kingdom of <hi>England</hi> for the ſpace of three years, as King <hi>Iames</hi> of bleſſed memory did grant for the Plan<g ref="char:EOLhyphen"/>tation of <hi>Virginia</hi> in the year <hi>1612.</hi> And alſo Letters Patents for a free Collection in the Churches, giving it in charge to the Miniſters to evidence the goodneſs of the Work, as the Council ſhall direct, unto whom it is referred; and what Monies ſhall be ſo raiſed ſhall be paid unto Our right truſty and welbeloved Couſin <hi>Philip</hi> Earl of <hi>Pembroke,</hi> and by him to be iſſued out for the erectings of Wharfs, Docks, Store-houſes and Granaries aforeſaid, with the conſent of the aforeſaid Councel or any four of them.</p>
+            <p>And alſo We do hereby grant, that for the space of ſeven years, from the firſt entrance into the Trade of Fiſhing, all the Returns made for the ſale of the Fiſh, either in the Bal<g ref="char:EOLhyphen"/>tick Seas, <hi>Denmark, Norway</hi> and <hi>France,</hi> ſhall pay no Cuſtomes inwards nor outwards, and ſhall freely vend their Fiſh in Foreign Parts, and make the returns thereof in the Com<g ref="char:EOLhyphen"/>modities of the place, without and interruption, by Power or Vertue of any Charter whatſoever to the contrary; And all Victuallers, Inns, Alehouſes, Taverns, Coffee-houſes and the like, ſhall take <hi>1, 2, 3, 4.</hi> or mere Barrels of Herrings yearly, at the price of Thirty ſhillings <hi>per</hi> Barrel, untill Foreign vent be attained to perfection, according as the Councel ſhall order the ſame; And all Barrels of Pickled Herrings and Codfiſh, that ſhall be brought into Our Kingdom by the <hi>Flemings</hi> or others, ſhall pay two ſhillings ſix pence <hi>per</hi> Barrel to the Stock of that place or Port where they ſhall vend the ſame, which ſhall be alſo ordered by the Councel aforeſaid.</p>
+            <p>And further by theſe preſents, We do Order that all Pickled Herrings and Barrel Codd taken by the Fiſhing Buſſes and Veſſels of Our Nation, when it is to be exported to Foreign Parts, ſhall give a Bill of Entry of the quantity, and quality, and place whether it is to be exported, unto the Officers that ſhall be appointed thereunto by Councel, their Commiſſioners or Agents appointed, and alſo the returns made, whereby a due account may be kept yearly to be exhibited to Our Lord Treaſurer for the time being.</p>
+            <p>And whereas in caſe of breach of Peace with any Foreign Nation (which God forbid) We are graciouſly pleaſed, and do hereby promiſe and grant, that the ſaid Fiſhers ſhall he pro<g ref="char:EOLhyphen"/>tected in their Fiſhing Grounds, and ſhall have Convoys for their exportation; And all other Priviledges and Immunities ſhall be granted unto them in future, as experience ſhall diſcover, for the better carrying on this buſineſs of Our Royal Fiſhing. In witneſs whereof We have cauſed theſe Our Letters to be made Patents,</p>
+            <closer>
+               <dateline>Witneſs Our Self at <hi>VVeſtminſter</hi> 
+                  <date>the Two and Twenty day of <hi>Auguſt,</hi> in the Thirteenth year of Our Raign.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printer's to the KING'S moſt Excellent Majeſty. 1661.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
